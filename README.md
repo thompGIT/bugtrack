@@ -9,3 +9,4 @@ quick setup:
 2. run ./localsrv.py to start a webserver
 3. browse to http://localhost:2048
 
+
